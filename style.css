@@ -10,6 +10,10 @@ h1 {
     color: #FFA100
 }
 
+.box {
+    border-radius: 30px;
+}
+
 #t-color {
     font-family: 'Reggae One', cursive;
     color: #FFA100
